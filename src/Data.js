@@ -12,7 +12,7 @@ const Data = () => {
     },[])
     return (
         <div>
-            {data.map(item =><h5 key={item.id}>{item.title}</h5> )}
+            {data.map(item =><h5 key={item.id}>{item.title}</h5>       )}
         </div>
     )
 }
