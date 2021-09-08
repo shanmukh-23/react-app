@@ -62,7 +62,7 @@ const NN = () => {
                 </span>
                 <span className="NT opacity-0">Optix<ArrowDropDownIcon className = "AR1"/></span>
               </div>
-              <div className = "f">
+              <div className = "f   ">
                 <span className="box">
                 </span>
                 <span className="NT opacity-0">Hybrid IT<ArrowDropDownIcon className = "AR"/></span>
